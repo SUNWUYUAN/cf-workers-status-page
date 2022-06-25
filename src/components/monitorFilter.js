@@ -43,7 +43,7 @@ export default function MonitorFilter({ active, callback }) {
         value={input}
         onInput={handleInput}
         onKeyDown={handleKeyDown}
-        placeholder="输入网站名称进行搜索"
+        placeholder="输入名称搜索"
         tabIndex={0}
         ref={(e) => e && active && e.focus()}
       />
