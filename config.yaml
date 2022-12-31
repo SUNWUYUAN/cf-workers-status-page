@@ -31,3 +31,19 @@ monitors:
     expectStatus: 200
     linkable: true 
 
+
+  - id: ourwlord.wuyuan.dev
+    name: OurWlord社区
+    description: '在线下载网易云音乐'
+    url: 'https://cdm.wuyuan.dev'
+    method: GET
+    expectStatus: 200
+    linkable: true 
+    
+  - id: url.wuyuan.dev
+    name: 短连接
+    description: '在线下载网易云音乐'
+    url: 'https://cdm.wuyuan.dev'
+    method: GET
+    expectStatus: 200
+    linkable: true 
