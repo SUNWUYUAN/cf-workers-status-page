@@ -34,16 +34,16 @@ monitors:
 
   - id: ourwlord.wuyuan.dev
     name: OurWlord社区
-    description: '在线下载网易云音乐'
-    url: 'https://cdm.wuyuan.dev'
+    description: 'OurWlord社区'
+    url: 'https://ourwlord.wuyuan.dev'
     method: GET
     expectStatus: 200
     linkable: true 
     
   - id: url.wuyuan.dev
     name: 短连接
-    description: '在线下载网易云音乐'
-    url: 'https://cdm.wuyuan.dev'
+    description: '短连接'
+    url: 'https://goweb.tk'
     method: GET
     expectStatus: 200
     linkable: true 
