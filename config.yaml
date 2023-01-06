@@ -47,3 +47,61 @@ monitors:
     method: GET
     expectStatus: 200
     linkable: true 
+    
+  - id: 2103.wuyuan.dev
+    name: 班级官网
+    description: '志同心齐，同天共创'
+    url: 'https://2103.wuyuan.dev'
+    method: GET
+    expectStatus: 200
+    linkable: true 
+    
+  - id: cdn.wuyuan.dev
+    name: CDN
+    description: '其实就是图床...'
+    url: 'https://cdn.wuyuan.dev'
+    method: GET
+    expectStatus: 200
+    linkable: true 
+
+
+  - id: img.wuyuan.dev
+    name: 图床
+    description: '其实就是另一个图床...'
+    url: 'https://img.wuyuan.dev'
+    method: GET
+    expectStatus: 200
+    linkable: true 
+  
+  - id: longlink.wuyuan.dev
+    name: 长链接
+    description: '怎么说捏...'
+    url: 'https://longlink.wuyuan.dev'
+    method: GET
+    expectStatus: 200
+    linkable: true 
+
+- id: opentuling.wuyuan.dev
+    name: OpenTuling
+    description: '开放图灵？？？'
+    url: 'https://opentuling.wuyuan.dev'
+    method: GET
+    expectStatus: 200
+    linkable: true 
+ 
+  - id: scratchgui.wuyuan.dev
+    name: ScratchGui
+    description: 'emmm'
+    url: 'https://img.wuyuan.dev'
+    method: GET
+    expectStatus: 200
+    linkable: true 
+ 
+ - id: ydj.wuyuan.dev
+    name: 秦氏工作室
+    description: '其实就是个摆设...'
+    url: 'https://ydj.wuyuan.dev'
+    method: GET
+    expectStatus: 200
+    linkable: true 
+    
